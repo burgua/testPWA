@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "burgua.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "burgua.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/testPWA/favicon.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ]
+}
